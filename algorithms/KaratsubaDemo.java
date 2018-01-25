@@ -1,7 +1,3 @@
-//IT3007 Take-home Assignment 3
-//Name: W. J. Chandima
-//Index No: s12009
-
 import java.util.Scanner;
 
 public class KaratsubaDemo {
