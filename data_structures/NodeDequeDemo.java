@@ -1,7 +1,3 @@
-//IT3007 Take-home Assignment 2
-//Name: W. J. Chandima
-//Index No: s12009
-
 import java.lang.RuntimeException;
 
 public class NodeDequeDemo {
